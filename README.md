@@ -33,6 +33,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank, 2014–2025</a></h3>
+      656 CAT Quant previous-year questions from 26 papers, grouped by topic and filterable by year, slot, difficulty and type, each solved with the concept, formula and steps. Search, progress tracking and dark mode, all in one static page.<br><br>
+      <a href="https://samarthjaiswal.github.io/cat-quant-pyq-bank/"><img src="https://img.shields.io/badge/Open_the_question_bank-175c78?style=flat-square" alt="Open the question bank"></a>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/RealTimePoseDetection">RealTimePoseDetection</a></h3>
       Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles.<br><br>
