@@ -1,7 +1,7 @@
 # Hi, I'm Samarth Jaiswal 👋
 
 I build full-stack web apps and AI-powered tools: LLM and computer-vision projects in Python, web
-frontends in React, Next.js and Vue, and REST backends in FastAPI, Flask, Node.js and Spring Boot.
+frontends in React, Next.js and Vue, and backends in Go, FastAPI, Flask, Node.js and Spring Boot.
 
 ## 🛠️ Skills
 
