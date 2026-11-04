@@ -70,13 +70,13 @@
 ## 📊 GitHub at a glance
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats-dark.svg">
-  <img alt="Contributions, commits, pull requests, repositories and languages" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/SAMARTHJAISWAL/output/stats-dark.svg">
+  <img alt="Contributions, commits, pull requests, repositories and languages" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/SAMARTHJAISWAL/output/stats.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake-dark.svg">
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/SAMARTHJAISWAL/output/snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/SAMARTHJAISWAL/output/snake.svg">
 </picture>
 
 <sub>Stats and the snake are generated daily from public GitHub data by <a href=".github/workflows/profile-assets.yml">a workflow in this repo</a>.</sub>
