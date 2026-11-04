@@ -1,43 +1,82 @@
+<div align="center">
+
 # Hi, I'm Samarth Jaiswal 👋
 
-I build full-stack web apps and AI-powered tools: LLM and computer-vision projects in Python, web
-frontends in React, Next.js and Vue, and backends in Go, FastAPI, Flask, Node.js and Spring Boot.
+**I build full-stack web apps, computer-vision tools and fast backends.**
 
-## 🛠️ Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthjaiswal/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samarthjaiswall)
+[![Repositories](https://img.shields.io/badge/All_repositories-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMARTHJAISWAL?tab=repositories)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,nodejs,express,python&perline=12" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS, Node.js, Express, Python" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=go,fastapi,flask,java,spring,c,postgres,sqlite,prisma,supabase,docker,git,opencv&perline=13" alt="Go, FastAPI, Flask, Java, Spring Boot, C, PostgreSQL, SQLite, Prisma, Supabase, Docker, Git, OpenCV" />
-</p>
+</div>
+
+- 🧍 **Computer vision:** pose detection and exercise tracking with MediaPipe, in Python and entirely in the browser
+- 🌐 **Full stack:** React, Next.js, Vue/Nuxt on the front; Node.js, FastAPI, Flask and Spring Boot behind them
+- ⚡ **Backends in Go:** small, fast, well-tested services built on the standard library
+- 🤖 **AI apps:** Gemini and LLM-powered tools for documents, data and video
 
 ## 🚀 Featured projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [repcount](https://github.com/SAMARTHJAISWAL/repcount) | Browser-only workout rep counter: on-device pose tracking counts squats, push-ups, curls and jumping jacks with live form cues ([live](https://samarthjaiswal.github.io/repcount/)) | TypeScript, Vite, MediaPipe |
-| [linkly](https://github.com/SAMARTHJAISWAL/linkly) | Self-hosted URL shortener with async click analytics that stores no IPs, rate limiting, QR codes and Prometheus metrics; ~60k redirects/s on a laptop ([live demo](https://samarthjaiswal.github.io/linkly/), Go compiled to WebAssembly) | Go, SQLite, Docker |
-| [RealTimePoseDetection](https://github.com/SAMARTHJAISWAL/RealTimePoseDetection) | Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles | Python, MediaPipe, OpenCV |
-| [ekagra](https://github.com/SAMARTHJAISWAL/ekagra) | एकाग्र, a quiet listening room for deep work: sitar over an illustrated lamplit loop, with a built-in focus timer ([live](https://ekagra-mocha.vercel.app)) | HTML, CSS, JavaScript |
-| [celea](https://github.com/SAMARTHJAISWAL/celea) | AI video generation platform: Gemini enhances prompts, Veo generates the video, and an automatic analyse-and-refine loop repeats until the result meets the goal | Next.js, TypeScript, Prisma, Supabase, Inngest |
-| [gemini-doc-qa](https://gemini-doc-qa-vert.vercel.app/) | Upload Excel/CSV files and ask questions about them in natural language, answered by Gemini (live demo; source is private) | FastAPI, React, TypeScript, Tailwind |
-| [medical-imaging-platform](https://github.com/SAMARTHJAISWAL/medical-imaging-platform) | Medical image viewer with DICOM metadata support, line, shape and angle measurements, and window/level and brightness controls | Nuxt 3, TypeScript, Konva, Tailwind |
-| [AsanaAbhyas](https://github.com/SAMARTHJAISWAL/AsanaAbhyas) | Notebook walkthrough of yoga pose detection and angle-based pose classification | Python, MediaPipe, OpenCV, Jupyter |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/repcount">RepCount</a></h3>
+      Workout rep counter that runs entirely in your browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with live form cues.<br><br>
+      <a href="https://samarthjaiswal.github.io/repcount/"><img src="https://img.shields.io/badge/Live_demo-c8f025?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Vite</code> <code>MediaPipe</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/linkly">linkly</a></h3>
+      Self-hosted URL shortener in Go with privacy-first click analytics, rate limiting, QR codes and Prometheus metrics. About 60k redirects/s on a laptop.<br><br>
+      <a href="https://samarthjaiswal.github.io/linkly/"><img src="https://img.shields.io/badge/Live_demo-2a78d6?style=flat-square" alt="Live demo"></a>
+      <code>Go</code> <code>SQLite</code> <code>WebAssembly</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/RealTimePoseDetection">RealTimePoseDetection</a></h3>
+      Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles.<br><br>
+      <code>Python</code> <code>MediaPipe</code> <code>OpenCV</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/ekagra">ekagra</a></h3>
+      एकाग्र, a quiet listening room for deep work: sitar over an illustrated lamplit loop, with a built-in focus timer.<br><br>
+      <a href="https://ekagra-mocha.vercel.app"><img src="https://img.shields.io/badge/Live_site-e3a33b?style=flat-square" alt="Live site"></a>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/celea">celea</a></h3>
+      AI video generation: Gemini sharpens the prompt, Veo renders the clip, and an analyse-and-refine loop repeats until the result meets the goal.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Gemini</code> <code>Veo</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/medical-imaging-platform">medical-imaging-platform</a></h3>
+      Browser-based medical image viewer: open PNG, JPEG or DICOM files, adjust window/level and take measurements, all client-side.<br><br>
+      <code>Nuxt 3</code> <code>Vue</code> <code>DICOM</code>
+    </td>
+  </tr>
+</table>
 
-More in my [repositories](https://github.com/SAMARTHJAISWAL?tab=repositories).
-
-## 📊 GitHub stats
+## 🛠️ Tech I use
 
 <p>
-  <a href="https://github.com/SAMARTHJAISWAL?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SAMARTHJAISWAL&show_icons=true&theme=dracula&include_all_commits=true&hide=issues" alt="Samarth's GitHub stats" />
-  </a>
-  <a href="https://github.com/SAMARTHJAISWAL?tab=repositories">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHJAISWAL&layout=compact&langs_count=8&theme=dracula" alt="Samarth's most used languages" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=12" alt="Python, Go, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,postgres,sqlite,mongodb,prisma,supabase,docker,opencv&perline=12" alt="Node.js, Express, FastAPI, Flask, Spring Boot, PostgreSQL, SQLite, MongoDB, Prisma, Supabase, Docker, OpenCV" />
 </p>
 
-## 📫 Connect
+## 📊 Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthjaiswal/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samarthjaiswall)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats-dark.svg">
+  <img alt="Contributions, commits, pull requests, repositories and languages" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake.svg">
+</picture>
+
+<sub>Stats and the snake are generated daily from public GitHub data by <a href=".github/workflows/profile-assets.yml">a workflow in this repo</a>.</sub>
