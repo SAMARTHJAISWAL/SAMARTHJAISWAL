@@ -18,7 +18,7 @@ frontends in React, Next.js and Vue, and REST backends in FastAPI, Flask, Node.j
 | [RealTimePoseDetection](https://github.com/SAMARTHJAISWAL/RealTimePoseDetection) | Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles | Python, MediaPipe, OpenCV |
 | [ekagra](https://github.com/SAMARTHJAISWAL/ekagra) | एकाग्र, a quiet listening room for deep work: sitar over an illustrated lamplit loop, with a built-in focus timer ([live](https://ekagra-mocha.vercel.app)) | HTML, CSS, JavaScript |
 | [celea](https://github.com/SAMARTHJAISWAL/celea) | AI video generation platform: Gemini enhances prompts, Veo generates the video, and an automatic analyse-and-refine loop repeats until the result meets the goal | Next.js, TypeScript, Prisma, Supabase, Inngest |
-| [gemini-doc-qa](https://github.com/SAMARTHJAISWAL/gemini-doc-qa) | Upload Excel/CSV files and ask questions about them in natural language, answered by Gemini ([live](https://gemini-doc-qa-vert.vercel.app/)) | FastAPI, React, TypeScript, Tailwind |
+| [gemini-doc-qa](https://gemini-doc-qa-vert.vercel.app/) | Upload Excel/CSV files and ask questions about them in natural language, answered by Gemini (live demo; source is private) | FastAPI, React, TypeScript, Tailwind |
 | [medical-imaging-platform](https://github.com/SAMARTHJAISWAL/medical-imaging-platform) | Medical image viewer with DICOM metadata support, line, shape and angle measurements, and window/level and brightness controls | Nuxt 3, TypeScript, Konva, Tailwind |
 | [AsanaAbhyas](https://github.com/SAMARTHJAISWAL/AsanaAbhyas) | Notebook walkthrough of yoga pose detection and angle-based pose classification | Python, MediaPipe, OpenCV, Jupyter |
 
