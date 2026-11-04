@@ -33,10 +33,16 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank, 2014–2025</a></h3>
-      656 CAT Quant previous-year questions from 26 papers, grouped by topic and filterable by year, slot, difficulty and type, each solved with the concept, formula and steps. Search, progress tracking and dark mode, all in one static page.<br><br>
-      <a href="https://samarthjaiswal.github.io/cat-quant-pyq-bank/"><img src="https://img.shields.io/badge/Open_the_question_bank-175c78?style=flat-square" alt="Open the question bank"></a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
+      656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
+      <a href="https://samarthjaiswal.github.io/cat-quant-pyq-bank/"><img src="https://img.shields.io/badge/Open_Quant_bank-175c78?style=flat-square" alt="Open the Quant bank"></a>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/cat-varc-pyq-bank">CAT VARC PYQ Bank</a></h3>
+      642 CAT VARC questions from every slot of 2017–2025 by question type, passage and difficulty, each explained with the method and the trap.<br><br>
+      <a href="https://samarthjaiswal.github.io/cat-varc-pyq-bank/"><img src="https://img.shields.io/badge/Open_VARC_bank-6a3d7c?style=flat-square" alt="Open the VARC bank"></a>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
   </tr>
