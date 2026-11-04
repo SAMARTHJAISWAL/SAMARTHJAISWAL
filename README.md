@@ -1,37 +1,82 @@
-## Hi, I am Samarth Jaiswal! 
-</br>
- <div>
-  <a href="https://github.com/SAMARTHJAISWAL">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMARTHJAISWAL&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAMARTHJAISWAL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
- 
- ## Skills
-<div style="display: inline_block"><br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="40" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img height="40" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-</div>
-  
-</br>
+<div align="center">
 
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/samarthjaiswal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- 
+# Hi, I'm Samarth Jaiswal 👋
+
+**I build full-stack web apps, computer-vision tools and fast backends.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthjaiswal/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/samarthjaiswall)
+[![Repositories](https://img.shields.io/badge/All_repositories-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMARTHJAISWAL?tab=repositories)
+
 </div>
+
+- 🧍 **Computer vision:** pose detection and exercise tracking with MediaPipe, in Python and entirely in the browser
+- 🌐 **Full stack:** React, Next.js, Vue/Nuxt on the front; Node.js, FastAPI, Flask and Spring Boot behind them
+- ⚡ **Backends in Go:** small, fast, well-tested services built on the standard library
+- 🤖 **AI apps:** Gemini and LLM-powered tools for documents, data and video
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/repcount">RepCount</a></h3>
+      Workout rep counter that runs entirely in your browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with live form cues.<br><br>
+      <a href="https://samarthjaiswal.github.io/repcount/"><img src="https://img.shields.io/badge/Live_demo-c8f025?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Vite</code> <code>MediaPipe</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/linkly">linkly</a></h3>
+      Self-hosted URL shortener in Go with privacy-first click analytics, rate limiting, QR codes and Prometheus metrics. About 60k redirects/s on a laptop.<br><br>
+      <a href="https://samarthjaiswal.github.io/linkly/"><img src="https://img.shields.io/badge/Live_demo-2a78d6?style=flat-square" alt="Live demo"></a>
+      <code>Go</code> <code>SQLite</code> <code>WebAssembly</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/RealTimePoseDetection">RealTimePoseDetection</a></h3>
+      Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles.<br><br>
+      <code>Python</code> <code>MediaPipe</code> <code>OpenCV</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/ekagra">ekagra</a></h3>
+      एकाग्र, a quiet listening room for deep work: sitar over an illustrated lamplit loop, with a built-in focus timer.<br><br>
+      <a href="https://ekagra-mocha.vercel.app"><img src="https://img.shields.io/badge/Live_site-e3a33b?style=flat-square" alt="Live site"></a>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/celea">celea</a></h3>
+      AI video generation: Gemini sharpens the prompt, Veo renders the clip, and an analyse-and-refine loop repeats until the result meets the goal.<br><br>
+      <code>Next.js</code> <code>TypeScript</code> <code>Gemini</code> <code>Veo</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/medical-imaging-platform">medical-imaging-platform</a></h3>
+      Browser-based medical image viewer: open PNG, JPEG or DICOM files, adjust window/level and take measurements, all client-side.<br><br>
+      <code>Nuxt 3</code> <code>Vue</code> <code>DICOM</code>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=12" alt="Python, Go, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,postgres,sqlite,mongodb,prisma,supabase,docker,opencv&perline=12" alt="Node.js, Express, FastAPI, Flask, Spring Boot, PostgreSQL, SQLite, MongoDB, Prisma, Supabase, Docker, OpenCV" />
+</p>
+
+## 📊 GitHub at a glance
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats-dark.svg">
+  <img alt="Contributions, commits, pull requests, repositories and languages" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/stats.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake-dark.svg">
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/SAMARTHJAISWAL/Samarth/output/snake.svg">
+</picture>
+
+<sub>Stats and the snake are generated daily from public GitHub data by <a href=".github/workflows/profile-assets.yml">a workflow in this repo</a>.</sub>
