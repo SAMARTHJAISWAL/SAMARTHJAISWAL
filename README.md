@@ -16,7 +16,7 @@ frontends in React, Next.js and Vue, and backends in Go, FastAPI, Flask, Node.js
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [repcount](https://github.com/SAMARTHJAISWAL/repcount) | Browser-only workout rep counter: on-device pose tracking counts squats, push-ups, curls and jumping jacks with live form cues ([live](https://samarthjaiswal.github.io/repcount/)) | TypeScript, Vite, MediaPipe |
-| [linkly](https://github.com/SAMARTHJAISWAL/linkly) | Self-hosted URL shortener with async click analytics that stores no IPs, rate limiting, QR codes and Prometheus metrics; ~60k redirects/s on a laptop | Go, SQLite, Docker |
+| [linkly](https://github.com/SAMARTHJAISWAL/linkly) | Self-hosted URL shortener with async click analytics that stores no IPs, rate limiting, QR codes and Prometheus metrics; ~60k redirects/s on a laptop ([live demo](https://samarthjaiswal.github.io/linkly/), Go compiled to WebAssembly) | Go, SQLite, Docker |
 | [RealTimePoseDetection](https://github.com/SAMARTHJAISWAL/RealTimePoseDetection) | Tracks 33 body landmarks from a webcam, video or image and classifies Warrior II, T Pose and Tree Pose in real time from joint angles | Python, MediaPipe, OpenCV |
 | [ekagra](https://github.com/SAMARTHJAISWAL/ekagra) | एकाग्र, a quiet listening room for deep work: sitar over an illustrated lamplit loop, with a built-in focus timer ([live](https://ekagra-mocha.vercel.app)) | HTML, CSS, JavaScript |
 | [celea](https://github.com/SAMARTHJAISWAL/celea) | AI video generation platform: Gemini enhances prompts, Veo generates the video, and an automatic analyse-and-refine loop repeats until the result meets the goal | Next.js, TypeScript, Prisma, Supabase, Inngest |
