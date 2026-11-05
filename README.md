@@ -41,6 +41,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/dhool">dhool · धूल</a></h3>
+      Falling-sand physics sandbox: paint sand, water, oil, fire, lava, acid and ice and watch them react. The simulation is a Rust cellular automaton compiled to a 36 KB WebAssembly module with no dependencies, running about 4,600 ticks a second in the browser. Scenes can be shared as links.<br><br>
+      <a href="https://samarthjaiswal.github.io/dhool/"><img src="https://img.shields.io/badge/Live_demo-f2a541?style=flat-square" alt="Live demo"></a>
+      <code>Rust</code> <code>WebAssembly</code> <code>TypeScript</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
@@ -84,7 +92,7 @@
 ## 🛠️ Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=12" alt="Python, Go, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=13" alt="Python, Go, Rust, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,postgres,sqlite,mongodb,prisma,supabase,docker,opencv&perline=12" alt="Node.js, Express, FastAPI, Flask, Spring Boot, PostgreSQL, SQLite, MongoDB, Prisma, Supabase, Docker, OpenCV" />
 </p>
