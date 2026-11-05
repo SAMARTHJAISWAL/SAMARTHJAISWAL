@@ -33,6 +33,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/raga-explorer">Raga Explorer · राग दर्शन</a></h3>
+      Interactive guide to 25 Hindustani ragas that runs in the browser: a synthesised tanpura drone, a keyboard that highlights the raga's swaras, aroha, avaroha and pakad playback with meend, a swara wheel for comparing ragas, and a raga clock showing what to sing right now. All sound is generated live with the Web Audio API.<br><br>
+      <a href="https://samarthjaiswal.github.io/raga-explorer/"><img src="https://img.shields.io/badge/Live_demo-e8a33d?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Web Audio</code> <code>Vite</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
