@@ -19,6 +19,15 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/vivar">vivar · कृष्ण विवर</a></h3>
+      <a href="https://samarthjaiswal.github.io/vivar/"><img src="https://raw.githubusercontent.com/SAMARTHJAISWAL/vivar/main/public/og.png" alt="A black hole rendered by vivar: the accretion disk bent over and under the shadow, brighter on the approaching side" width="100%"></a><br>
+      A black hole ray-traced live in the browser. For every pixel, a WebGL2 shader follows a light ray through curved Schwarzschild spacetime, so the shadow, the photon ring, the disk bent over the top and the Doppler-bright side all come out of the physics. 55 tests check the integrator against known results.<br><br>
+      <a href="https://samarthjaiswal.github.io/vivar/"><img src="https://img.shields.io/badge/Live_demo-ffb46a?style=flat-square" alt="Live demo"></a>
+      <code>WebGL2</code> <code>GLSL</code> <code>TypeScript</code> <code>General relativity</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/repcount">RepCount</a></h3>
       Workout rep counter that runs entirely in your browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with live form cues.<br><br>
