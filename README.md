@@ -66,6 +66,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/rangoli">rangoli · रंगोली</a></h3>
+      A Diwali rangoli board you share with a link: everyone who opens it draws together in real time, with powder colours, marigold petals, kolam dots and clay diyas, every stroke mirrored around the centre. Lights out darkens the board so each diya lights the colours around it. There is no server: browsers connect directly over WebRTC, and a hand-written CRDT keeps every screen identical, tested under lost, duplicated and reordered messages.<br><br>
+      <a href="https://samarthjaiswal.github.io/rangoli/"><img src="https://img.shields.io/badge/Live_demo-b5321f?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>WebRTC</code> <code>CRDT</code> <code>Canvas</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
