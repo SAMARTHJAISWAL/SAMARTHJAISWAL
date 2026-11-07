@@ -58,6 +58,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/sahmati">sahmati · सहमति</a></h3>
+      Interactive Raft consensus simulator: crash servers, split the network and watch leader election and log replication message by message, with 8 guided scenarios including the Raft paper's Figure 8 case. The simulation is deterministic, so any run can be shared as a link and replayed exactly. A fuzzer checked Raft's five safety properties after every event across 122,000 random failure runs, and caught all 7 bugs planted to test it.<br><br>
+      <a href="https://samarthjaiswal.github.io/sahmati/"><img src="https://img.shields.io/badge/Live_demo-2f3c8f?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Distributed systems</code> <code>Raft</code> <code>Fuzzing</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
