@@ -82,6 +82,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/lipi">lipi · लिपि</a></h3>
+      A small programming language and its compiler, written from scratch and running in the browser. Your code becomes real WebAssembly bytes and runs instantly, with every stage on screen: tokens, a typed syntax tree, WebAssembly text and an annotated hex dump. Errors are explained in plain English as you type. Tested by differential fuzzing: 20,000 random programs give identical results compiled and interpreted.<br><br>
+      <a href="https://samarthjaiswal.github.io/lipi/"><img src="https://img.shields.io/badge/Live_demo-1f2a6b?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Compilers</code> <code>WebAssembly</code> <code>Fuzzing</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
