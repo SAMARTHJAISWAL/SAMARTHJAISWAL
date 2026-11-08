@@ -74,6 +74,14 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/SAMARTHJAISWAL/patakha">patakha · पटाखा</a></h3>
+      How loud is your Diwali? Your phone becomes a firecracker noise meter: live A-weighted decibels, a spectrogram, and every bang, ladi and rocket detected and counted as it goes off, with the night's loudest moment and time above harmful levels. A standards-matched A-weighting filter runs in an AudioWorklet, and audio never leaves the device. On 838 synthetic crackers it found every one with no false alarms.<br><br>
+      <a href="https://samarthjaiswal.github.io/patakha/"><img src="https://img.shields.io/badge/Live_demo-ffb23f?style=flat-square" alt="Live demo"></a>
+      <code>TypeScript</code> <code>Web Audio</code> <code>DSP</code> <code>AudioWorklet</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SAMARTHJAISWAL/cat-quant-pyq-bank">CAT Quant PYQ Bank</a></h3>
       656 CAT Quant previous-year questions (2014–2025) by topic, year, slot and difficulty, each solved with the concept, formula and steps.<br><br>
