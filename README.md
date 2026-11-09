@@ -73,6 +73,7 @@
 
 | Project | What it is | |
 | --- | --- | --- |
+| [**aavedan · आवेदन**](https://github.com/SAMARTHJAISWAL/aavedan) | A job search that finds roles in India, remote and worldwide, ranks them against your resume with Claude, fills each application in Chrome, reads every answer back, and sends only what you approve. | [Live demo](https://samarthjaiswal.github.io/aavedan/) |
 | [**RepCount**](https://github.com/SAMARTHJAISWAL/repcount) | A workout rep counter that runs in the browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with form cues. | [Live demo](https://samarthjaiswal.github.io/repcount/) |
 | [**linkly**](https://github.com/SAMARTHJAISWAL/linkly) | A self-hosted URL shortener in Go with privacy-first click stats; the live demo is the real Go code compiled to WebAssembly. | [Live demo](https://samarthjaiswal.github.io/linkly/) |
 | [**Raga Explorer · राग दर्शन**](https://github.com/SAMARTHJAISWAL/raga-explorer) | 25 Hindustani ragas with a synthesised tanpura, aroha and avaroha playback, a swara wheel and a raga clock, all generated with Web Audio. | [Live demo](https://samarthjaiswal.github.io/raga-explorer/) |
