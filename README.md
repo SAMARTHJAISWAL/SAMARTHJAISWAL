@@ -10,7 +10,7 @@
 
 </div>
 
-- 🧠 **Systems and languages:** a compiler to WebAssembly, a Raft consensus simulator, a Rust physics engine, a Zig CSV profiler built on streaming sketches, all tested with fuzzing
+- 🧠 **Systems and languages:** a compiler to WebAssembly, a Raft consensus simulator, a Rust physics engine, a Zig CSV profiler built on streaming sketches, an OCaml SQL lineage analyzer, all tested with fuzzing
 - 🎨 **Graphics and sound:** WebGL2 ray tracing, canvas rendering, Web Audio synthesis and real-time sound analysis
 - 🧍 **Computer vision:** pose detection and exercise tracking with MediaPipe, in Python and entirely in the browser
 - 🌐 **Full stack:** React, Next.js and Vue/Nuxt in front; Node.js, Go, FastAPI, Flask and Spring Boot behind them
@@ -74,6 +74,7 @@
 | Project | What it is | |
 | --- | --- | --- |
 | [**aavedan · आवेदन**](https://github.com/SAMARTHJAISWAL/aavedan) | A job search that finds roles in India, remote and worldwide, ranks them against your resume with Claude, fills each application in Chrome, reads every answer back, and sends only what you approve. | [Live demo](https://samarthjaiswal.github.io/aavedan/) |
+| [**vansh · वंश**](https://github.com/SAMARTHJAISWAL/vansh) | Column-level lineage for SQL and dbt in OCaml: traces every column through CTEs, joins and `SELECT *` back to its sources, answers "what breaks if I change this column?", and runs in the browser via js_of_ocaml. Parses 346 real-world dbt models with zero errors. | [Live demo](https://samarthjaiswal.github.io/vansh/) |
 | [**parakh · परख**](https://github.com/SAMARTHJAISWAL/parakh) | A CSV profiler in Zig: one pass and a few MB of memory for files of any size, with types, nulls, distinct counts (HyperLogLog), quantiles (KLL), top values and data-quality warnings. About 4× faster than pandas on 1M rows; the live demo runs it in your browser via WebAssembly. | [Live demo](https://samarthjaiswal.github.io/parakh/) |
 | [**RepCount**](https://github.com/SAMARTHJAISWAL/repcount) | A workout rep counter that runs in the browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with form cues. | [Live demo](https://samarthjaiswal.github.io/repcount/) |
 | [**linkly**](https://github.com/SAMARTHJAISWAL/linkly) | A self-hosted URL shortener in Go with privacy-first click stats; the live demo is the real Go code compiled to WebAssembly. | [Live demo](https://samarthjaiswal.github.io/linkly/) |
@@ -88,7 +89,7 @@
 ## 🛠️ Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,rust,zig,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=14" alt="Python, Go, Rust, Zig, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,zig,ocaml,ts,js,java,c,react,nextjs,vue,nuxtjs,tailwind,html&perline=15" alt="Python, Go, Rust, Zig, OCaml, TypeScript, JavaScript, Java, C, React, Next.js, Vue, Nuxt, Tailwind CSS, HTML" />
   <br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring,postgres,sqlite,mongodb,prisma,supabase,docker,opencv,wasm,vite&perline=14" alt="Node.js, Express, FastAPI, Flask, Spring Boot, PostgreSQL, SQLite, MongoDB, Prisma, Supabase, Docker, OpenCV, WebAssembly, Vite" />
 </p>
