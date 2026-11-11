@@ -73,7 +73,7 @@
 
 | Project | What it is | |
 | --- | --- | --- |
-| [**aavedan · आवेदन**](https://github.com/SAMARTHJAISWAL/aavedan) | A job search that finds roles in India, remote and worldwide, ranks them against your resume with Claude, fills each application in Chrome, reads every answer back, and sends only what you approve. | [Live demo](https://samarthjaiswal.github.io/aavedan/) |
+| [**aavedan · आवेदन**](https://github.com/SAMARTHJAISWAL/aavedan) | A job search that finds roles in India, remote and worldwide, ranks them against your resume with Claude, fills each application in Chrome, reads every answer back, and sends only what you approve. | [Live demo](https://aavedan-six.vercel.app/) |
 | [**vansh · वंश**](https://github.com/SAMARTHJAISWAL/vansh) | Column-level lineage for SQL and dbt in OCaml: traces every column through CTEs, joins and `SELECT *` back to its sources, answers "what breaks if I change this column?", and runs in the browser via js_of_ocaml. Parses 346 real-world dbt models with zero errors. | [Live demo](https://vansh-gold.vercel.app/) |
 | [**parakh · परख**](https://github.com/SAMARTHJAISWAL/parakh) | A CSV profiler in Zig: one pass and a few MB of memory for files of any size, with types, nulls, distinct counts (HyperLogLog), quantiles (KLL), top values and data-quality warnings. About 4× faster than pandas on 1M rows; the live demo runs it in your browser via WebAssembly. | [Live demo](https://samarthjaiswal.github.io/parakh/) |
 | [**RepCount**](https://github.com/SAMARTHJAISWAL/repcount) | A workout rep counter that runs in the browser: on-device pose tracking counts squats, push-ups, curls and jumping jacks, with form cues. | [Live demo](https://samarthjaiswal.github.io/repcount/) |
