@@ -23,6 +23,7 @@ Bug fixes merged into projects I use:
 | Project | What I fixed | |
 | --- | --- | --- |
 | [**delta-rs**](https://github.com/delta-io/delta-rs) · Rust | A `MERGE` with thousands of distinct partition values crashed the process with a stack overflow. The early filter is now built as a balanced tree instead of one long chain. | [PR #5075](https://github.com/delta-io/delta-rs/pull/5075) |
+| [**Mosaic**](https://github.com/uwdata/mosaic) · TypeScript | Log scales inverted values below one to negative numbers, so histograms on a log axis got negative bin edges. | [PR #1410](https://github.com/uwdata/mosaic/pull/1410) |
 | [**Panel**](https://github.com/holoviz/panel) · Python | `pn.serve(threaded=True)` stopped working once the main thread finished. | [PR #9073](https://github.com/holoviz/panel/pull/9073) |
 | [**Panel**](https://github.com/holoviz/panel) · Python | Tabulator rebuilt every column on each edit when column names were not strings. | [PR #9054](https://github.com/holoviz/panel/pull/9054) |
 
