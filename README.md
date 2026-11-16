@@ -16,6 +16,16 @@
 - 🌐 **Full stack:** React, Next.js and Vue/Nuxt in front; Node.js, Go, FastAPI, Flask and Spring Boot behind them
 - 🤖 **AI apps:** Gemini and LLM-powered tools for documents, data and video
 
+## 🤝 Open source contributions
+
+Bug fixes merged into projects I use:
+
+| Project | What I fixed | |
+| --- | --- | --- |
+| [**delta-rs**](https://github.com/delta-io/delta-rs) · Rust | A `MERGE` with thousands of distinct partition values crashed the process with a stack overflow. The early filter is now built as a balanced tree instead of one long chain. | [PR #5075](https://github.com/delta-io/delta-rs/pull/5075) |
+| [**Panel**](https://github.com/holoviz/panel) · Python | `pn.serve(threaded=True)` stopped working once the main thread finished. | [PR #9073](https://github.com/holoviz/panel/pull/9073) |
+| [**Panel**](https://github.com/holoviz/panel) · Python | Tabulator rebuilt every column on each edit when column names were not strings. | [PR #9054](https://github.com/holoviz/panel/pull/9054) |
+
 ## 🚀 Featured projects
 
 <table>
