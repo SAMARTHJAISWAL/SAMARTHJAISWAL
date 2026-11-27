@@ -22,6 +22,10 @@ Bug fixes merged into projects I use:
 
 | Project | What I fixed | |
 | --- | --- | --- |
+| [**GreptimeDB**](https://github.com/GreptimeTeam/greptimedb) · Rust | Follow-up: `COPY FROM` csv still lost the last digits of large `BIGINT UNSIGNED` values, and with `skip_bad_records` it rounded decimals wrongly or silently dropped valid rows. | [PR #10643](https://github.com/GreptimeTeam/greptimedb/pull/10643) |
+| [**GreptimeDB**](https://github.com/GreptimeTeam/greptimedb) · Rust | `COPY FROM` csv and json rounded `DECIMAL` values with 17 or more digits and large `BIGINT UNSIGNED` values, while reporting success. Numbers are now parsed exactly from the file's text. | [PR #10560](https://github.com/GreptimeTeam/greptimedb/pull/10560) |
+| [**go-mysql-server**](https://github.com/dolthub/go-mysql-server) (Dolt) · Go | `SELECT -WEEKDAY(...)` and `-(-true)` failed with `invalid type: int`, because unary minus had no case for Go `int`. My commit landed through the maintainer's PR. | [PR #4209](https://github.com/dolthub/go-mysql-server/pull/4209) |
+| [**SQLFluff**](https://github.com/sqlfluff/sqlfluff) · Python | Rule RF03 wrongly asked to qualify references to an outer `UNNEST` alias. | [PR #9139](https://github.com/sqlfluff/sqlfluff/pull/9139) |
 | [**Apache OpenDAL**](https://github.com/apache/opendal) · Rust / Python | `async with` on a file from the Python bindings failed type checking, because `AsyncFile.__aexit__` was declared as returning `None` instead of an awaitable. | [PR #8525](https://github.com/apache/opendal/pull/8525) |
 | [**delta-rs**](https://github.com/delta-io/delta-rs) · Rust | A `MERGE` with thousands of distinct partition values crashed the process with a stack overflow. The early filter is now built as a balanced tree instead of one long chain. | [PR #5075](https://github.com/delta-io/delta-rs/pull/5075) |
 | [**Malloy**](https://github.com/malloydata/malloy) · TypeScript | `x ~ 10 to 20` hit an internal compiler error. It is now a range check, and a wrong-type `~` gives a clear message. | [PR #3225](https://github.com/malloydata/malloy/pull/3225) |
